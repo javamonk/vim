@@ -4,21 +4,18 @@
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
 	url = https://github.com/fs111/pydoc.vim.git
-[submodule "bundle/pep8"]
-	path = bundle/pep8
-	url = https://github.com/vim-scripts/pep8.git
 [submodule "bundle/py.test"]
 	path = bundle/py.test
 	url = https://github.com/alfredodeza/pytest.vim.git
-[submodule "bundle/pyflakes-pathogen"]
-	path = bundle/pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim.git
-[submodule "bundle/pylint"]
-	path = bundle/pylint
-	url = https://github.com/orenhe/pylint.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git 
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
